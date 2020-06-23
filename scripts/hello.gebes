@@ -1,0 +1,11 @@
+main
+ println
+  Hello
+ 
+ call once
+  hello
+
+
+hello
+ print
+  Funktion
